@@ -1,2 +1,2 @@
-# BOJ
-Baekjoon Online Judge problem solving records + Algorithm Study records
+# fcOpenCV
+Fastcampus OpenCV를 활용한 컴퓨터비전과 딥러닝 올인원 패키지 Online 
